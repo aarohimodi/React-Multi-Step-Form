@@ -229,7 +229,7 @@ function App() {
   return (
     <>
       <div
-        className="w-[50%] px-10 flex flex-col mt-10 mx-auto justify-center 
+        className="w-[50%] px-2 md:px-10 flex flex-col mt-10 mx-auto justify-center 
   bg-white/10 
   backdrop-blur-xl 
   border border-white/20 
